@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meteorelevrai/AlloStaff/main/assets/banner.png" alt="Météore" width="100%" />
-</p>
-
 <h1 align="center">Salut 👋, je suis Météore</h1>
 <p align="center">
   🎓 Étudiant à <b>42 Nice</b>
