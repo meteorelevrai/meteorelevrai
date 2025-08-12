@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meteorelevrai&label=🚀%20Vues%20du%20profil&color=048B9A&style=for-the-badge" alt="meteorelevrai" />
+  <img src="https://komarev.com/ghpvc/?username=meteorelevrai&label=%20%20🚀%20Vues%20du%20profil%20%20&color=048B9A&style=for-the-badge" alt="meteorelevrai" />
 </p>
 
 
