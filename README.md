@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<TON_GITHUB>/<TON_GITHUB>/main/assets/banner.png" alt="Météore" width="100%" />
+</p>
 
-<!--
-**meteorelevrai/meteorelevrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Salut 👋, je suis Météore</h1>
+<p align="center">
+  🎓 Étudiant à <b>42</b> • 💻 Passionné de tech • 🚀 Toujours en quête d'amélioration
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 À propos
+- 🇫🇷 Basé en France
+- 📚 J'apprends actuellement **JavaScript** et **Node.js**
+- 🛠️ Je m'intéresse au développement **backend** et aux **outils Discord**
+- 🎯 Objectif : progresser chaque jour et créer des projets utiles
+
+
+## 🛠️ Compétences
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,discord,git,github,vscode,linux&perline=7" />
+</p>
+
+
+## 📊 Stats GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<TON_GITHUB>&show_icons=true&theme=transparent" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TON_GITHUB>&layout=compact&theme=transparent" alt="top langs" />
+</p>
