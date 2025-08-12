@@ -39,7 +39,7 @@
 
 ### 🤖 Écosystème Discord
 <p>
-  <img src="https://skillicons.dev/icons?i=discordjs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=discord,discordjs&perline=8" />
 </p>
 
 ## 📊 Stats GitHub
