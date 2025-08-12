@@ -10,9 +10,9 @@
 
 ## 🌱 À propos
 - 🇫🇷 Basé en France
-- 📚 J'apprends actuellement **C** et **JavaScript**
-- 🛠️ Je m'intéresse au **pentesting** et aux **IA**
-- 🎯 Objectif : progresser chaque jour
+- 📚 Apprentissage en cours : **C** et **JavaScript**
+- 🛠️ Intérêt pour le **pentesting** et les **intelligences artificielles**
+- 🎯 Objectif : améliorer continuellement mes compétences
 
 
 ## 🛠️ Compétences
