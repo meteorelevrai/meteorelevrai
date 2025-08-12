@@ -17,7 +17,7 @@
 
 ## 🛠️ Compétences
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,c,batch,linux,windows,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,c,linux,windows,vscode,javascript&perline=7" />
 </p>
 
 
