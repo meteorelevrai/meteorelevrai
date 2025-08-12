@@ -10,12 +10,37 @@
 - 🛠️ Intérêt pour le **pentesting** et les **intelligences artificielles**
 - 🎯 Objectif : améliorer continuellement mes compétences
 
-
 ## 🛠️ Compétences
+
+### 🔤 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,c,python,vscode,javascript,linux,vim,sublime,windows,nodejs,npm,bash,codepen,discordjs,github,react&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,javascript,python&perline=8" />
 </p>
 
+### 🌐 Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,codepen&perline=8" />
+</p>
+
+### ⚙️ Runtime & gestion de paquets
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,npm&perline=8" />
+</p>
+
+### 🧰 Éditeurs & Outils
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,vim,sublime,github&perline=8" />
+</p>
+
+### 🖥️ Système & Shell
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash&perline=8" />
+</p>
+
+### 🤖 Écosystème Discord
+<p>
+  <img src="https://skillicons.dev/icons?i=discordjs&perline=8" />
+</p>
 
 ## 📊 Stats GitHub
 <p align="center">
