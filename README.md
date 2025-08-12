@@ -4,15 +4,15 @@
 
 <h1 align="center">Salut 👋, je suis Météore</h1>
 <p align="center">
-  🎓 Étudiant à <b>42</b> • 💻 Passionné de tech • 🚀 Toujours en quête d'amélioration
+  🎓 Étudiant à <b>42 Nice</b>
 </p>
 
 
 ## 🌱 À propos
 - 🇫🇷 Basé en France
-- 📚 J'apprends actuellement **JavaScript** et **Node.js**
-- 🛠️ Je m'intéresse au développement **backend** et aux **outils Discord**
-- 🎯 Objectif : progresser chaque jour et créer des projets utiles
+- 📚 J'apprends actuellement **C** et **JavaScript**
+- 🛠️ Je m'intéresse au **pentesting** et aux **IA**
+- 🎯 Objectif : progresser chaque jour
 
 
 ## 🛠️ Compétences
