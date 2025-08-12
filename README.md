@@ -23,8 +23,8 @@
 
 ## 📊 Stats GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<TON_GITHUB>&show_icons=true&theme=transparent" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<meteorelevrai>&show_icons=true&theme=transparent" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TON_GITHUB>&layout=compact&theme=transparent" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<meteorelevrai>&layout=compact&theme=transparent" alt="top langs" />
 </p>
