@@ -18,7 +18,7 @@
 
 ### 🔤 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,javascript,python&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,python&perline=8" />
 </p>
 
 ### 🌐 Web
@@ -39,11 +39,6 @@
 ### 🖥️ Système & Shell
 <p>
   <img src="https://skillicons.dev/icons?i=linux,windows,bash&perline=8" />
-</p>
-
-### 🤖 Écosystème Discord
-<p>
-  <img src="https://skillicons.dev/icons?i=discord,discordjs&perline=8" />
 </p>
 
 ## 📊 Stats GitHub
